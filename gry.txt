@@ -1,0 +1,4 @@
+Minecraft,2007,Surwiwal,5.0
+CS:GO,2010,FPS,9.0
+Fortnite,2014,BattleRoyale,10.0
+Fifa2020,2020,Sportowe,0.0
